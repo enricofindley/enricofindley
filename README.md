@@ -5,7 +5,7 @@ Enrico Findley</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enricofindley&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://www.grandmercure.com/" target="blank">Grand Mercure</a>
@@ -29,7 +29,7 @@ Enrico Findley</a></h1>
 	<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
+<br>
 
 <p align="center">
 <a href="https://github.com/enricofindley">
@@ -46,6 +46,7 @@ Enrico Findley</a></h1>
 </div>
 <!--- trophy (start) -->
 
+<br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -56,7 +57,7 @@ Enrico Findley</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,django,flask,discord,docker,express,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,laravel,php,tensorflow,sqlite&perline=14" />
   </a>
 </p>
 </p>
