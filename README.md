@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://enricofindley.my.id/" target="blank">
 Enrico Findley</a></h1>
-<h3 align="center">A passionate Software Engineer and AI Enthusiast from Indonesia</h3>
+<h3 align="center">A Passionate Software Engineer and AI Enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enricofindley&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
